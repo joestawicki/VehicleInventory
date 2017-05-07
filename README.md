@@ -1,4 +1,4 @@
-# VehicleInventory
+# Vehicle Inventory
 
 This is a small-scale Vehicle Inventory console application written in C#.
 
